@@ -15,7 +15,6 @@
 		D1A3FB77209B997500729815 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1A3FB75209B997500729815 /* LaunchScreen.storyboard */; };
 		D1A3FB7F209F056600729815 /* flex.png in Resources */ = {isa = PBXBuildFile; fileRef = D1A3FB7E209F056500729815 /* flex.png */; };
 		D1A3FB82209F273900729815 /* LostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1A3FB81209F273900729815 /* LostViewController.swift */; };
-		D1A3FB84209F2A3600729815 /* stronkbotwelcome.png in Resources */ = {isa = PBXBuildFile; fileRef = D1A3FB83209F2A3600729815 /* stronkbotwelcome.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		D1A3FB78209B997500729815 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D1A3FB7E209F056500729815 /* flex.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flex.png; sourceTree = "<group>"; };
 		D1A3FB81209F273900729815 /* LostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LostViewController.swift; sourceTree = "<group>"; };
-		D1A3FB83209F2A3600729815 /* stronkbotwelcome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = stronkbotwelcome.png; path = ../../../../../Desktop/Skrivbord/stronkbotwelcome.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +76,6 @@
 		D1A3FB80209F057100729815 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				D1A3FB83209F2A3600729815 /* stronkbotwelcome.png */,
 				D1A3FB7E209F056500729815 /* flex.png */,
 			);
 			path = Assets;
@@ -146,7 +143,6 @@
 				D1A3FB77209B997500729815 /* LaunchScreen.storyboard in Resources */,
 				D1A3FB74209B997500729815 /* Assets.xcassets in Resources */,
 				D1A3FB7F209F056600729815 /* flex.png in Resources */,
-				D1A3FB84209F2A3600729815 /* stronkbotwelcome.png in Resources */,
 				D1A3FB6F209B997500729815 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
